@@ -1,0 +1,23 @@
+body {
+      background-color: #cfcbf3;
+         
+      }
+h2 {
+    font-family: Tahoma, Arial, Helvetica, sans-serif;
+    color: #2b5a8b;
+    font-size: 1.8 em;
+    padding: 30 px;
+    }
+   #content{
+    background-color:#e27e0c;
+    }
+   #p {
+    color:#cfcbf3;
+    line-height: 1.5;
+    text-align: justify; 
+    }
+   #table {
+           background-color: aqua;
+           width: 200px;
+           height: 150px;
+   }
