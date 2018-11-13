@@ -1,0 +1,38 @@
+body {
+ margin: 0;
+ padding: 0;
+}
+.main-title {
+ color: #393939;
+ font-size: 30px;
+ font-weight: bold;
+ line-height: 36px;
+ font-family: "Arial", sans-serif; 
+ text-align: center; 
+}
+.main-title span {
+  color: #fd58b2;
+}
+.container {
+ width: 1140px;
+ margin: auto;
+ text-align: center; 
+}
+.row {
+  margin-top: 10px;
+}
+.item {
+ display: inline-block;
+ width: 210px;
+ margin-right: 90px;
+ text-align: center; 
+}
+.item__descr {
+ font-family:"Arial", sans-serif;
+ font-size: 16px;
+ font-weight: bold;
+ line-height: 22px;
+}
+.item:last-child {
+  margin: 0;
+}
