@@ -1,0 +1,35 @@
+.container {
+    /* padding-top: 70px; */ 
+   }
+.row {
+ /* align-self: center; */
+ padding-bottom: 82px;
+ text-align: center;
+}
+.main-title {
+    /* Style for "Почему нуж" */
+width: 706px;
+height: 28px;
+color: #333333;
+font-family: "Tahoma";
+font-size: 26px;
+margin: none;
+text-align: center;
+box-align: center;
+margin: 82px 167px;
+
+}
+.row__item {
+padding-top: 82;
+}
+.row__descr {
+    /* Style for "Пятое преи" */
+/* margin-bottom: 20px; */
+width: 122px;
+height: 34px;
+color: #333333;
+font-family: "Arial", sans-serif; 
+font-size: 16px;
+font-weight: bold;
+text-align: center;
+}
