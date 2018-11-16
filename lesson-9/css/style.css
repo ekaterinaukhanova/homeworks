@@ -8,23 +8,20 @@
  text-align: center;
  margin-top: 63px;
  margin-bottom: 36px;
- padding-inline-end: 30%;
- padding-inline-start: 40%;
 }
 .main-title span {
   color: #fd58b2;
   text-align: center;
 }
 .item {
-  text-align: center;
-  margin-left: 90px;  
+  text-align: center; 
 }
 .item img {
 
 }
 .item__descr {
  color: #333333;
- font-family: Tahoma, sans-serif;
+ font-family: "Arial - Bold MT", sans-serif;
  font-size: 16px;
  font-weight: 700;
  margin-top: -20px;
