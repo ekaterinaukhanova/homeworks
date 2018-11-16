@@ -1,0 +1,28 @@
+.main-title {
+    /* Style for "Почему нуж" */
+ color: #333333;
+ font-family: Tahoma, sans-serif;
+ font-size: 24px;
+ font-weight: 700;
+ text-transform: uppercase;
+ text-align: center;
+ margin-top: 72px;
+ margin-bottom: 80px;
+ padding-inline-end: 28%;
+ padding-inline-start: 27%; 
+}
+.item {
+  text-align: center;  
+}
+.item img {
+ min-height: 77px;
+ margin-bottom: 20px;
+ margin-top: 20px;
+}
+.item__descr {
+ color: #333333;
+ font-family: Tahoma, sans-serif;
+ font-size: 16px;
+ font-weight: 700;
+}
+
